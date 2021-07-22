@@ -1,4 +1,4 @@
-## Wellcome friend !
+## Welcome friend !
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Q7ITL1trVHLQZT75Pi/giphy.gif" width="800px"/>
 
